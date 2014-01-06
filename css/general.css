@@ -1,0 +1,61 @@
+@charset "UTF-8";
+/* CSS Document */
+
+blockquote {
+	background-color: #941751;
+	font:Georgia, "Times New Roman", Times, serif;
+	font-size:30px;
+	border-radius: 10px;
+	color:#FFF;
+	padding-top:2rem;
+	padding-bottom:7rem;
+	padding-left: 6rem;
+	padding-right: 8rem;
+	margin-left: 12rem;
+	margin-right: 12rem;
+	margin-top: 9rem;
+	
+}
+
+body {
+	background-color:#320318;
+	
+	
+}
+
+cite {
+	opacity: .6;
+	font-family:Arial, Helvetica, sans-serif;
+	font-style:normal;
+	float:right;
+	padding-top:3rem;
+	font-size:24px;
+	
+}
+
+.bqstart {
+     float: left;
+     font-size: 650%;
+     color: #b82d5d;
+	 font-family:Arial, Helvetica, sans-serif;
+	 margin-top: -3.5rem;
+	 margin-left: -5rem;
+ }
+ 
+.bqend {
+     float: right;
+     font-size: 650%;
+     color: #b82d5d;
+	 font-family:Arial, Helvetica, sans-serif;
+	 margin-right: -5rem;
+	 margin-top: -1.5rem;
+	 
+ }
+ 
+ p {
+	 padding-left: 3rem;
+	 margin-right: 1rem;
+ }
+
+
+
